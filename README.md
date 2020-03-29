@@ -1,2 +1,4 @@
-# omnifood
-Responsive HTML5 &amp; CSS3 Landing
+# Omnifood
+HTML5 & CSS3 Landing Startup Template
+
+
